@@ -1,0 +1,7 @@
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\OrdenacionDeTresNumeros\OrdenacionDeTresNumeros\bin\Debug\OrdenacionDeTresNumeros.exe.config
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\OrdenacionDeTresNumeros\OrdenacionDeTresNumeros\bin\Debug\OrdenacionDeTresNumeros.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\OrdenacionDeTresNumeros\OrdenacionDeTresNumeros\bin\Debug\OrdenacionDeTresNumeros.pdb
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\OrdenacionDeTresNumeros\OrdenacionDeTresNumeros\obj\Debug\OrdenacionDeTresNumeros.csprojAssemblyReference.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\OrdenacionDeTresNumeros\OrdenacionDeTresNumeros\obj\Debug\OrdenacionDeTresNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\OrdenacionDeTresNumeros\OrdenacionDeTresNumeros\obj\Debug\OrdenacionDeTresNumeros.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\OrdenacionDeTresNumeros\OrdenacionDeTresNumeros\obj\Debug\OrdenacionDeTresNumeros.pdb
